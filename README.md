@@ -1,2 +1,2 @@
 # Sass
-settings for .vscode
+settings for .vscode > settings.json
